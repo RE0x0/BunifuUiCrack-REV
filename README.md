@@ -37,7 +37,7 @@ The modified version of the Bunifu UI v6.0.8 license DLL includes the following 
 
 If you find this project useful, please consider supporting the repositories:
 
-- ⭐ **Star this repository**: [RE0x0/BunifuUiCrack](https://github.com/RE0x0/BunifuUiCrack).  
+- ⭐ **Star this repository**: [RE0x0/BunifuUiCrack-REV](https://github.com/RE0x0/BunifuUiCrack-REV).  
 - ⭐ **Star t0int1337's repository**: [t0int1337/BunifuUiCrack](https://github.com/t0int1337/BunifuUiCrack).
 
 ---
@@ -132,6 +132,6 @@ this.Controls.Add(demoBtn);
 
 ---
 
-For more information on Bunifu UI components, check out the **official documentation**: [📚 Bunifu Docs](https://bunifuframework.com/documentation/).
+For more information on Bunifu UI components, check out the **official documentation**: [📚 Bunifu Docs](https://docs2.bunifuframework.com/docs).
 
 ---
